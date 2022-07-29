@@ -1,0 +1,29 @@
+.home {
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    margin: auto;
+    background-color: #0dba4b;
+    width: 58%;
+    border-radius: 8px;
+    margin-top: 40px;
+    display: flex;
+}
+
+.a {
+    justify-content: space-between;
+    padding: 13px; 
+}
+
+.aa {
+    justify-content: space-between;
+    padding: 13px;
+}
+
+.aaa {
+    justify-content: space-between;
+    padding: 13px;
+}
+
+.aaaa {
+    justify-content: space-between;
+    padding: 13px;
+}
